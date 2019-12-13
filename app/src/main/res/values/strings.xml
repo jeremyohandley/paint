@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="choose_a_color">Choose a color</string>
+</resources>
